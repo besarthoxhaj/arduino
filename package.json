@@ -1,0 +1,14 @@
+{
+  "name": "arduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bes",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.9.35"
+  }
+}
